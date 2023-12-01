@@ -5,16 +5,11 @@ PROJECT: AWS
 
 
 
-#(Page 5 SHE Windows Server 2019 IIS 10 and .NET Installation Configuration Page)
+
     Install-WindowsFeature -name Web-Server -IncludeManagementTools
     Install-WindowsFeature -name Web-Mgmt-Service
-    
-
-#(Page 6 SHE Windows Server 2019 IIS 10 and .NET Installation Configuration)
     Get-WindowsFeature -Name NET-Framework-47-Core | Install-WindowsFeature
     Get-WindowsFeature -Name Web-Asp-Net47 | Install-WindowsFeature
-
-#(Page 7-8 SHE Windows Server 2019 IIS 10 and .NET Installation Configuration)
     Get-WindowsFeature -Name Web-Dir-Browsing  | Remove-WindowsFeature
     Get-WindowsFeature -Name Web-Http-Logging | Install-WindowsFeature
     Get-WindowsFeature -Name Web-Custom-Logging | Install-WindowsFeature
@@ -23,14 +18,10 @@ PROJECT: AWS
     Get-WindowsFeature -Name Web-Http-Tracing  | Install-WindowsFeature
     Get-WindowsFeature -Name Web-Filtering | Install-WindowsFeature
     Get-WindowsFeature -Name Web-Windows-Auth | Install-WindowsFeature
-
-#(Left over from old script verify if still needed )    
     Get-WindowsFeature -Name Web-Http-Errors | Install-WindowsFeature
     Get-WindowsFeature -Name Web-Static-Content | Install-WindowsFeature
     Get-WindowsFeature -Name Web-Stat-Compression | Install-WindowsFeature
     Get-WindowsFeature -Name Web-Basic-Auth | Remove-WindowsFeature
-
-#(Page 9 SHE Windows Server 2019 IIS 10 and .NET Installation Configuration)
     Get-WindowsFeature -Name Web-Net-Ext47 | Install-WindowsFeature
     Get-WindowsFeature -Name Web-ASP | Install-WindowsFeature
     Get-WindowsFeature -Name Web-CGI | Install-WindowsFeature
@@ -39,43 +30,9 @@ PROJECT: AWS
     Get-WindowsFeature -Name Web-Includes | Install-WindowsFeature
     Get-WindowsFeature -Name Web-Scripting-Tools |  Install-WindowsFeature
     Get-WindowsFeature -Name Web-Mgmt-Console | Install-WindowsFeature
-
-#(Page 10 SHE skip ftp install SHE Windows Server 2019 IIS 10 and .NET Installation Configuration)
-    if ($wdpe -eq "Y"){
     Get-WindowsFeature -Name Web-Ftp-Server | Install-WindowsFeature
     Get-WindowsFeature -Name Web-Ftp-Service | Install-WindowsFeature
-}
-    
-#(Page 13 SHE Windows Server 2019 IIS 10 and .NET Installation Configuration)
     Restart-Computer -Force
-
-#STOP HERE TILL REBOOT COMPLETES. LOG IN AND RUN NEXT PORTION
-
-
-#(Page 14 SHE Windows Server 2019 IIS 10 and .NET Installation Configuration)
-    Import-Module WebAdministration
-
-    #DISABLE ANONYMOUS AND ENABLE WINDOWS AUTH
-    Set-WebConfigurationProperty -filter /system.webServer/security/authentication/anonymousAuthentication -name enabled -value false -PSPath IIS:\\ -location ${site_name}/${virtual_directory_name}
-    Set-WebConfigurationProperty -filter /system.webServer/security/authentication/WindowsAuthentication -name enabled -value true -PSPath IIS:\\ -location ${site_name}/${virtual_directory_name}
-
-#(Page 15-16 SHE Windows Server 2019 IIS 10 and .NET Installation Configuration)
-    #CREATE DIRECTORY
-    #IN NETF SINCE THERE ARE NO EXTRA DRIVE E HAS BEEN MAPPED TO A FOLDER FOR TESTING
-    mkdir e:\WebApps
-
-#(Page 16-18 SHE Windows Server 2019 IIS 10 and .NET Installation Configuration)
-    #CREATE A NEW SHARE
-    New-SmbShare -Name WebApps$ -Path E:\Webapps
-    #?? Give everyone access the share??? Page 11?
-    Revoke-SmbShareAccess -Name "WebApps$" -AccountName "Everyone" -Force
-
-#(Page 19 SHE Windows Server 2019 IIS 10 and .NET Installation Configuration)
-    #DISABLE INHERITANCE
-    $folder = 'E:\WebApps'
-    $acl = Get-ACL -Path $folder
-    $acl.SetAccessRuleProtection($True, $False)
-    Set-Acl -Path $folder -AclObject $acl
 
 
 
