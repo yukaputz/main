@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RDCMan programVersion="2.93" schemaVersion="3">
+  <file>
+    <credentialsProfiles />
+    <properties>
+      <expanded>True</expanded>
+      <name>rdcman</name>
+    </properties>
+    <server>
+      <properties>
+        <name>18.118.157.183</name>
+      </properties>
+      <logonCredentials inherit="None">
+        <profileName scope="Local">Custom</profileName>
+        <userName>Administrator</userName>
+        <password>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAcUk6kfLc10iigj39W6TLswAAAAACAAAAAAAQZgAAAAEAACAAAACsPHw03CHh97p7c3Z1uSQmq1JFrr8rv8knCvsc+aG39AAAAAAOgAAAAAIAACAAAADIl9g2so/4E8de/wiyBTZdQOJnhf3ZrDIVq5LKDypw9FAAAACFRyIcIvKp6KPU9HWjVFguqcL8y2o682dwDljsfKnw/3mA1AlhCyuVvhWztLATfC8YzRfwUZ7SxlL2iOBA56daDaDrjg2xQoOXB2ZOgpU9VUAAAABAiIOarzs4NWnfZuesHYvr1vfeE6WtiSrMkx0syRvjVrYbtzc5D2OtMz2XBFjZi4hBKKXe8+9ej5k0mvP3w9bw</password>
+        <domain />
+      </logonCredentials>
+      <displaySettings inherit="None">
+        <thumbnailScale>1</thumbnailScale>
+        <smartSizeDockedWindows>Scale</smartSizeDockedWindows>
+        <smartSizeUndockedWindows>Scale</smartSizeUndockedWindows>
+      </displaySettings>
+    </server>
+    <server>
+      <properties>
+        <name>msi</name>
+      </properties>
+      <displaySettings inherit="None">
+        <thumbnailScale>1</thumbnailScale>
+        <smartSizeDockedWindows>Scale</smartSizeDockedWindows>
+        <smartSizeUndockedWindows>Scale</smartSizeUndockedWindows>
+      </displaySettings>
+    </server>
+  </file>
+  <connected />
+  <favorites />
+  <recentlyUsed />
+</RDCMan>
