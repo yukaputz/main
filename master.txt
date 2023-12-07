@@ -1,6 +1,11 @@
 PROJECT: AWS
+ec2-18-118-157-183.us-east-2.compute.amazonaws.com
+Buiding Aws for Mike New Laptop
+   Configure IAM 
+   Install power cli msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
 
- Start-EC2Instance -InstanceIds ec2-18-118-157-183.us-east-2.compute.amazonaws.com
+Start-EC2Instance -InstanceIds ec2-18-118-157-183.us-east-2.compute.amazonaws.com
+Stop-EC2Instance -InstanceIds ec2-18-118-157-183.us-east-2.compute.amazonaws.com
 
 
 
