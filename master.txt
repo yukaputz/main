@@ -1,11 +1,233 @@
-PROJECT: AWS
-ec2-18-118-157-183.us-east-2.compute.amazonaws.com
-Buiding Aws for Mike New Laptop
-   Configure IAM 
-   Install power cli msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+THIS IS FOR USE WHEN YOU CANT CONCENTRATE.  THIS IS SALVATION!
+FOLD/Unfold
+   ctrl k 0 to fold
+   ctrl k j to unfold
 
-Start-EC2Instance -InstanceIds ec2-18-118-157-183.us-east-2.compute.amazonaws.com
-Stop-EC2Instance -InstanceIds ec2-18-118-157-183.us-east-2.compute.amazonaws.com
+Project: Budget
+
+Holidays:
+         Visit Gettysburg holiday shop for tree topper?
+         Order moravian star for outside
+         Lily
+         Chloe
+
+Project: Shopping List
+         Invisible Glass
+
+Project: Meals
+
+Project: Doug Trescott
+         Chloe
+         Test Jan 21 1230 -230
+         Lesson 2 Jan 18th After School will drop off 2 hours
+         Lesson 1 Jan 14th 12-30 230 My house
+
+         Lily
+         Test Jan 29th After School 2:50-450
+         Lesson 2  Jan 25th After School 2:50-4:50
+         Lesson 1 Jan 14th 2:30-430 My house
+
+         Administrative note:
+         dougtrescottdrivingschool.com 
+         Go to sign up page Student parent driving info form
+
+         On the 14th, my house for paper work.  
+         First Lesson
+         Copy of both permits
+         Copy of classroom certificates
+         Parent permission form he has for signature at.
+         Sign pendot 65
+         If signed in front of Doug, no notary needed.
+
+         Check Doug Trescot Driving School
+         630.00 total.  
+
+Project: Cleaning
+            Kitchen
+               Dishwasher
+                  Check filter, make re-occuring maint task for each quarter. 
+               Trash
+                  Empty trash
+               Clean 
+                  fridge
+                  oven
+                  microwave
+               Wipe
+         Steam Clean the couch
+         Stove is cracked
+         Bedroom
+            Sheets
+            Dusting
+            Dressers
+            Closets
+
+Project: BCBS
+         Get Reimbursments for paying ambu out of pocket
+
+Project: Bills
+            Check all Credit card balances make re-occuring task for every 30 days.
+            Autopay
+               Trash
+               Mortgage
+               Comcast
+               Credit Cards
+
+Project: Dogs
+            Dog poop  make a repeating task
+            Dog bowls make a repeating task
+            Dog water make a repeating task
+            Dog paws make a repeating task
+         
+            Dogs baths
+            Dogs foam idea?
+            Order foam
+            Get Sunny in for visit
+            Get Xander in for visit
+
+Project: Grow
+            Pinch down and water
+            Order Jack Herer
+
+Project: Dinner Ideas
+
+Project: Water Saver Toilet
+            First floor bathroom
+
+Project: Weekly Gym schedule
+            Make a repeating task
+Project: Laundry
+            Make a repeating task
+
+Project: Credit Cards 
+            New Atm Card
+            Activate other cards
+
+Project: Vacation
+            Passports
+
+Project: Cpap supplies
+            Setup new vendor with ins
+     cpap supplies 
+     hot tub
+
+Project: Email
+            Groom email make a weekly task
+
+Project: Eyes
+            Dad
+               replacements on its way
+
+Project: Medical Marijuana
+            waiting for weed dr to call on monday
+            start tracking expenses
+feed weed
+
+
+
+finish light in room
+
+order a rug for room
+
+get lovesac
+
+stove crack
+invisible glass
+empty dishwasher
+empty fridge
+order food
+
+menu
+
+move saws to shed
+move ac to shed
+move radioator to garage
+Christmass trains and tree topper?
+
+
+Taxes 
+           2022
+           2023 Hold back
+
+Van
+     Tires front
+     Spare
+     Inspection
+     Door
+     Oil
+
+Acura
+     Air Cleaner
+     Trans Fluid
+     Coolant
+
+6" Gutter on Front of house
+
+Spare Room
+Blinds
+Fan
+Move plant rack up to that room.
+
+Chloe's Room
+     Ceiling
+     Paint
+     Furniture
+     Hammock Chair
+
+Upstairs Bathroom
+     Toilet
+     Vanity
+     Floor
+
+Garage 2x8 Replacementt
+
+Hot Water Heater Line Leak
+
+Drain for porch front of house
+
+Trees
+
+
+Roof
+
+Toys:
+3D Printer
+Skate Board
+
+e
+
+PROJECT:  CHLOE ORTHO
+
+PROJECT: MTURK
+https://worker.mturk.com/projects/3BMWOOFJV2FHKZVJ2QNA8URN5P7STX/tasks?ref=w_pl_prvw
+   Ll https://worker.mturk.com/projects/3BMWOOFJV2FHKZVJ2QNA8URN5P7STX/tasks.json?ref=w_pl_prvw
+
+PROJECT: SURGERY
+    Hernia Repair x2
+    Excess Skin Removal
+    Get scoped for the ulcer
+
+PROJECT:  TEETH 
+
+Lily
+Digital Camera
+Sun Glasses
+Clothing from aerie shrits small and pants are small
+Hoodies champion nmike or college filed hockey hoodies
+Kendra scott necklace
+Lululemon dual puch wristlet
+car stuff
+american eagle high rise jeans size 6 lighter wash no to dark
+nike air max 270 size 8.5
+lululemon swiftly tech long sleeve 2.0 race length size 6
+luluemon alight hight rise legging 25" in size six
+PROJECT: AWS
+   ec2-18-118-157-183.us-east-2.compute.amazonaws.com
+   Buiding Aws for Mike New Laptop
+      Configure IAM 
+      Install power cli msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+
+   Start-EC2Instance -InstanceIds ec2-18-118-157-183.us-east-2.compute.amazonaws.com
+   Stop-EC2Instance -InstanceIds ec2-18-118-157-183.us-east-2.compute.amazonaws.com
 
 
 
