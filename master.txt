@@ -1,18 +1,51 @@
 THIS IS FOR USE WHEN YOU CANT CONCENTRATE.  THIS IS SALVATION!
-FOLD/Unfold
+
+Project: Fold/Unfold
    ctrl k 0 to fold
    ctrl k j to unfold
 
 Project: Budget
 
-Holidays:
-         Visit Gettysburg holiday shop for tree topper?
-         Order moravian star for outside
-         Lily
-         Chloe
+Project: Holidays
+            Schedule
+               Emailed Kate
+            
+            Omas Diorama
+
+            Opa's Trains 
+
+            Tree Skirt
+
+            Go See a Train Display
+
+            Visit Gettysburg holiday shop for tree topper?
+            
+            Order moravian star for outside
+            
+            Lily
+               Digital Camera
+               Sun Glasses
+               Clothing from aerie shrits small and pants are small
+               Hoodies champion nmike or college filed hockey hoodies
+               Kendra scott necklace
+               Lululemon dual puch wristlet
+               car stuff
+               american eagle high rise jeans size 6 lighter wash no to dark
+               nike air max 270 size 8.5
+               lululemon swiftly tech long sleeve 2.0 race length size 6
+               luluemon alight hight rise legging 25" in size six
+            
+            Chloe
+               Where the hell is your list
 
 Project: Shopping List
          Invisible Glass
+         Cooking making supplies
+
+Project: Thumb
+         Put therapy dates in calendar
+
+Project: Real Bedside Alarm clock
 
 Project: Meals
 
@@ -95,6 +128,7 @@ Project: Water Saver Toilet
 
 Project: Weekly Gym schedule
             Make a repeating task
+
 Project: Laundry
             Make a repeating task
 
@@ -107,8 +141,6 @@ Project: Vacation
 
 Project: Cpap supplies
             Setup new vendor with ins
-     cpap supplies 
-     hot tub
 
 Project: Email
             Groom email make a weekly task
@@ -120,106 +152,84 @@ Project: Eyes
 Project: Medical Marijuana
             waiting for weed dr to call on monday
             start tracking expenses
-feed weed
 
+Project: Earth Room
+            Finish ceiling fan
+            Order rug
+            Luv Sac
+            Blinds
+            Plants
 
+Project: Garage
+            move saws to shed
 
-finish light in room
+Project: Winterization
+            Move Ac to shed
+            Clean Leaves make repeating task
 
-order a rug for room
+Project: Boogie Van
+            Old Engine
+               Check Engine
+               
+            New Engine
 
-get lovesac
+            Body
 
-stove crack
-invisible glass
-empty dishwasher
-empty fridge
-order food
+Project: Limo Van
+            Check Engine
+            Oil bolt?
+            Oil change
+            Appt at Glenns?
 
-menu
-
-move saws to shed
-move ac to shed
-move radioator to garage
-Christmass trains and tree topper?
-
-
-Taxes 
+Project: Taxes 
+            Make reoccuring task
            2022
            2023 Hold back
+           Call that Lady
 
-Van
-     Tires front
-     Spare
-     Inspection
-     Door
-     Oil
-
-Acura
+Project: Acura
      Air Cleaner
      Trans Fluid
      Coolant
 
-6" Gutter on Front of house
+Project: Gutter 
+      6" Gutter on Front of house
 
-Spare Room
-Blinds
-Fan
-Move plant rack up to that room.
-
-Chloe's Room
+Project: Chloe's Room
      Ceiling
      Paint
      Furniture
      Hammock Chair
 
-Upstairs Bathroom
+Project: Upstairs Bathroom
      Toilet
      Vanity
      Floor
 
-Garage 2x8 Replacementt
+Project: Wood Rot
+      Garage 2x8 Replacementt
+      Paint?
+      Silicone?
 
-Hot Water Heater Line Leak
+Project: Hot Water Heater
+   Line Leak
 
-Drain for porch front of house
+Project: Trees
+   Return Chainsaws
 
-Trees
+Project: Roof
 
+Project: Toys
+   3D Printer
+   Skate Board
 
-Roof
-
-Toys:
-3D Printer
-Skate Board
-
-e
-
-PROJECT:  CHLOE ORTHO
-
-PROJECT: MTURK
-https://worker.mturk.com/projects/3BMWOOFJV2FHKZVJ2QNA8URN5P7STX/tasks?ref=w_pl_prvw
-   Ll https://worker.mturk.com/projects/3BMWOOFJV2FHKZVJ2QNA8URN5P7STX/tasks.json?ref=w_pl_prvw
-
-PROJECT: SURGERY
+PROJECT: Surgery
     Hernia Repair x2
     Excess Skin Removal
     Get scoped for the ulcer
 
-PROJECT:  TEETH 
+PROJECT:  Teeth
 
-Lily
-Digital Camera
-Sun Glasses
-Clothing from aerie shrits small and pants are small
-Hoodies champion nmike or college filed hockey hoodies
-Kendra scott necklace
-Lululemon dual puch wristlet
-car stuff
-american eagle high rise jeans size 6 lighter wash no to dark
-nike air max 270 size 8.5
-lululemon swiftly tech long sleeve 2.0 race length size 6
-luluemon alight hight rise legging 25" in size six
 PROJECT: AWS
    ec2-18-118-157-183.us-east-2.compute.amazonaws.com
    Buiding Aws for Mike New Laptop
@@ -261,7 +271,33 @@ PROJECT: AWS
     Get-WindowsFeature -Name Web-Ftp-Service | Install-WindowsFeature
     Restart-Computer -Force
 
+PROJECT: Dating
 
+PROJECT: Recipies
+
+   Weight Loss Soup
+      64 ounces chicken broth you may use low-sodium
+      6 cups V-8 juice *see recipe notes
+      56 ounces Italian diced tomatoes
+      2 small onion
+      4 cloves minced garlic
+      16 ounces sliced mushrooms
+      6 carrots peeled and sliced
+      2 zucchini diced
+      2 yellow squash diced
+      4 cups green beans fresh or frozen
+      28 ounces kidney beans drained and rinsed
+      6-8 cups shredded cabbage
+      2 teaspoons Italian seasoning
+      Salt and Pepper to taste
+
+      In a large frying pan sprayed with cooking spray, sauté garlic, onions, carrots, and mushrooms for about 5 minutes. 
+
+      In a large crockpot, combine sautéed garlic and vegetables with the remaining ingredients. 
+
+      Cook on high for 2-3 hours, or until vegetables are fork-tender.
+      FREEZING INSTRUCTIONS
+      This makes a large batch of soup. If you would like to freeze portions of it to use later, undercook the vegetables just a little. Pour the soup into freezer Ziplock bags and let as much air out as you can. Lay the bags flat on a cookie sheet and freeze. Once the soup is frozen flat, it is easy to layer in your freezer and won’t take up much room. To thaw, place the bag in the fridge for 24 hours and then rehea
 
 
 
