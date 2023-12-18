@@ -1,4 +1,41 @@
-# Install File Server Resource Manager feature
+# Import the FSRM module
+Import-Module FileServerResourceManager
+
+# Create a new file screen using the Block Audio and Video Files template
+$fsrmScreenTemplate = Get-FsrmFileScreenTemplate | Where-Object { $_.Description -eq "Block Audio and Video Files" }
+
+if ($fsrmScreenTemplate -ne $null) {
+    # Specify the path to apply the file screen (adjust the path as needed)
+    $pathToScreen = "C:\Path\To\Your\Folder"
+
+    # Create the file screen
+    New-FsrmFileScreen -Path $pathToScreen -Template $fsrmScreenTemplate
+
+    # Add specific file extensions to the block (flv and thumbs.db)
+    $blockedFileExtensions = @(".flv", "thumbs.db")
+    foreach ($extension in $blockedFileExtensions) {
+        Add-FsrmFileScreenExtension -Path $pathToScreen -FileType $extension -Action Block
+    }
+
+    Write-Host "File screen created successfully."
+} else {
+    Write-Host "Error: Block Audio and Video Files template not found."
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Install File Server Resource Manager feature
 Install-WindowsFeature -Name FS-Resource-Manager -IncludeManagementTools
 
 # Configuration variables
@@ -23,3 +60,6 @@ New-FsrmFileScreenTemplate -Name $notificationTemplateName -IncludeGroup $fileGr
 
 # Apply notification template to the file screen
 Set-FsrmFileScreen -Path $fileScreenPath -Notification $notificationTemplateName
+
+
+
