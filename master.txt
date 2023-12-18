@@ -6,28 +6,49 @@ Project: Fold/Unfold
 
 Project: 24 Hours
             Budget
-            Clean Toilets
-            Find Chloe list
-            Order gifts
+            * Clean Toilets
+            * Find Chloe list
+            * Order gifts
             Ceiling Fan
+            BCBS
+            FSA
 
 Project: Budget
 
+   Re-Occuring expenses
+
+      Omneprazole 
+         Vendor: Amazon 
+         Schedule: 
+         Cost:
+      
+      Dog Food
+         Vendor: Chewy
+         Schedule:
+         Cost:
+
+      Streaming
+			Disney+	
+         Cost: 21.04	Capital One
+				
+	   Dating
+      	50	Monthly	Capital One
+
 Project: Holidays
             Schedule
-               Emailed Kate
+            * Emailed Kate
             
-            Omas Diorama
+            * Omas Diorama
 
             Opa's Trains 
 
-            Tree Skirt
+            * Tree Skirt
 
             Go See a Train Display
 
             Visit Gettysburg holiday shop for tree topper?
             
-            Order moravian star for outside
+            * Order moravian star for outside
             
             Lily
                Digital Camera
@@ -43,7 +64,25 @@ Project: Holidays
                luluemon alight hight rise legging 25" in size six
             
             Chloe
-               Where the hell is your list
+               Christmas List:
+
+
+            Brooks running Shoe link (size 9)
+            2 Pack Long Sleeve link (size small) 
+            Womens Hoodie link (size medium, color in coffee gray)
+            silk pillowcase
+            fake ivy garlands(room decor) - found on amazon
+            Floral Plant Tapestry link (size large: 36” by 48’’, color navy blue)
+            Legos(orchid, plants, garden house)
+            tamanu oil
+            black women's sweatpants link (size medium, color black)
+            gray women's sweatpants link (size medium, color gray)
+            phone case - Google pixel 7
+            wrong place wrong time by Gillian McAllister
+
+            car stuff:
+            floor mats, bin for car necessities, first aid kit, snow brush/scraper, car registration and insurance card holder, flashlight, window glass breaker, hot hands, dash cam, notebook and pen
+
 
             New Years Eve 
                Wishbone
@@ -212,6 +251,13 @@ Project: Workout
             Weight:
 
 Project: Shopping List
+         Sausage and bacon
+
+
+
+
+
+
          Invisible Glass
          Dryer Sheets
          Real Bedside Alarm clock
@@ -366,14 +412,6 @@ Project: FEDVIP
          Get Reimbursments for paying ambu out of pocket
             113416236001
 
-Project: Bills
-            Check all Credit card balances make re-occuring task for every 30 days.
-            Autopay
-               Trash
-               Mortgage
-               Comcast
-               Credit Cards
-
 Project: Dogs
             Dog poop  make a repeating task
             Dog bowls make a repeating task
@@ -423,7 +461,7 @@ Project: Medical Marijuana
 Project: Earth Room
             Finish ceiling fan
             Order rug
-            Luv Sac
+            *Luv Sac
             Blinds
             Plants
 
