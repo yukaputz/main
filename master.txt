@@ -4,14 +4,19 @@ Project: Fold/Unfold
    ctrl k 0 to fold
    ctrl k j to unfold
 
+Project: Taxes
+
 Project: 24 Hours
-            Budget
-            * Clean Toilets
-            * Find Chloe list
-            * Order gifts
-            Ceiling Fan
-            BCBS
-            FSA
+ Plant bottoms
+         weed
+         Groceries
+         Cord for star
+         31" Blind
+         Heat Register
+         White rug
+
+         BCBS
+         FSA
 
 Project: Budget
 
@@ -34,7 +39,23 @@ Project: Budget
 	   Dating
       	50	Monthly	Capital One
 
+      Netflix
+
+      Discovery
+
 Project: Holidays
+            Christmas dinner
+            Filet 
+            Puff Pastry
+            Dessert?
+            Prosciutto
+            Red Potatoes
+            Honey carrots
+            Green Beans
+
+            Christmas casserole
+
+            
             Schedule
             * Emailed Kate
             
@@ -67,25 +88,21 @@ Project: Holidays
                Christmas List:
 
 
-            Brooks running Shoe link (size 9)
-            2 Pack Long Sleeve link (size small) 
-            Womens Hoodie link (size medium, color in coffee gray)
-            silk pillowcase
-            fake ivy garlands(room decor) - found on amazon
-            Floral Plant Tapestry link (size large: 36” by 48’’, color navy blue)
-            Legos(orchid, plants, garden house)
-            tamanu oil
-            black women's sweatpants link (size medium, color black)
-            gray women's sweatpants link (size medium, color gray)
-            phone case - Google pixel 7
-            wrong place wrong time by Gillian McAllister
+               Brooks running Shoe link (size 9)
+               2 Pack Long Sleeve link (size small) 
+               Womens Hoodie link (size medium, color in coffee gray)
+               silk pillowcase
+               fake ivy garlands(room decor) - found on amazon
+               Floral Plant Tapestry link (size large: 36” by 48’’, color navy blue)
+               Legos(orchid, plants, garden house)
+               tamanu oil
+               black women's sweatpants link (size medium, color black)
+               gray women's sweatpants link (size medium, color gray)
+               phone case - Google pixel 7
+               wrong place wrong time by Gillian McAllister
 
-            car stuff:
-            floor mats, bin for car necessities, first aid kit, snow brush/scraper, car registration and insurance card holder, flashlight, window glass breaker, hot hands, dash cam, notebook and pen
-
-
-            New Years Eve 
-               Wishbone
+               car stuff:
+               floor mats, bin for car necessities, first aid kit, snow brush/scraper, car registration and insurance card holder, flashlight, window glass breaker, hot hands, dash cam, notebook and pen
 
             Dad
                Cool Tshirts
@@ -250,84 +267,231 @@ Project: Workout
             Rep: 10
             Weight:
 
-Project: Shopping List
-         Sausage and bacon
+Project: Shopping Lists
 
-
-
-
-
-
-         Invisible Glass
-         Dryer Sheets
-         Real Bedside Alarm clock
-         Cooking making supplies
-         Romaine
-         Vegtable Shortening
-         Iodized Salt
-         Cinnamon
-         Pumpkin Pie spice
-         Bleach
-         Laundry Stripping Suppliess
-            Borax
-            Arm Hammer Washing Soda
-         Lunches
-            Snacks
-            Turkey
-            Bread
-            Sliced cheddar
-         French Toast Sticks
-         4 pack purple yogurt
-         Strawberries
-         Blueberries
-         3 large chicken breasts boneless and skinless, sliced lengthwise into thin cutlets
-         ▢½ teaspoon salt
-         ▢¼ teaspoon ground black pepper
-         ▢6 tablespoons (50 grams) all-purpose flour
-         ▢2 tablespoons (28 grams) unsalted butter
-         Chicken Bullion
-         ▢1 cup (240 ml) heavy cream (double cream in the UK)
-         ▢½ cup (43 grams) parmesan cheese grated
-         ▢1 teaspoon chili flakes
-         ▢¼ teaspoon oregano
-         ▢¼ teaspoon thyme
-         ▢⅓ cup sundried tomatoes chopped
-         ▢1 tablespoon fresh basil leaves
+         Regulars
+            w Gold Peak tea
+            w Milk
+            coffee
+            creamer
+            w Paper Towels
          
-         4 pounds boneless or bone-in beef short ribs about 8 short ribs
-         ▢1 teaspoon salt
-         ▢1 teaspoon black pepper
-         ▢3 cups beef broth
-         ▢1/4 cup worcestershire sauce
-         ▢1 teaspoon garlic powder
-         ▢1 teaspoon onion powder
-         ▢1 sprig fresh rosemary
-         Mashed Potatoes
-         Green Beans
-         two cans Tuna
-         English muffins
-         American Cheese
-         Mac n Cheese
-         angus Burgers
-         fries
-         baked beans
-         brioche 
-         eggs
-         white rice
-         Cilantro
-         white cheddar
-         cuban sauce
-         fresh Fruit
-         ham steak
+         Semi Regular
+            w Laundry Detergent
+            Spray and Wash
+            Trash bags
+            w Parchment
+            Toilet Paper
+            Paper Towels 
+            Hand soap
+            w Dish Detergent
+            Dish washing machine detergent
 
-Project: Thumb
-         Put therapy dates in calendar
+         
+         Girls Approved Snacks
+            Baby carrots
+            Hummus
+            Strawberries
+            Raspberries
+            w Rice Cakes 
+            w Popcorn
+            Apple Slices 
+            Turkey cubes
+            Cheese cubes
+            Clementimes
+            Dried cranberries
+            w Brown Sugar Oatmeal
+            Cinamon Sugar Almonds
+            Lite and Lively Yogurt
+            Briquettes
+         
+
+         Lunches
+            Regular Cheese slices
+            Sliced Turkey
+
+         This Week
+            w Eggs
+            w Whole Grain English muffins
+            w Chicken breasts
+            w Kens light ceasar
+            Red onion
+            Peppers
+            zuchinni
+            Squash
+            Cucumbers x2
+            6 Sweet potatoes
+            w Unscented soap
+            Romaine Heads 
+            w Croutons
+            Cherry tomatoes x2
+            Cucumber
+            w Turkey cutlets
+            w Corn on Cob
+            Peppers
+            Zucchini
+            Squash
+            Red Onion x3
+            w Chick Peas 6 cans
+            w Tzatziki sauce
+            w Kalamata olives pitted halved
+            Fresh Parsely
+            Lemon x2
+            Salmon
+            Dill 
+            Green Beans fresh
+            w Frozen Brocolli
+            w cabbage
+            w carrots
+            w canned Pineapple
+            Ginger
+            Chives
+            Red Pepper
+            w Cornstarch
+            w pork loin
+
+
+            Archived   
+               filets 
+               puff P
+               Paper Towels
+               Honey glazed carrots
+               Garlic Mashed
+               Milke
+               butter
+               Dessert?
+
+               Invisible Glass
+               Dryer Sheets
+               Real Bedside Alarm clock
+               Cooking making supplies
+               Romaine
+               Vegtable Shortening
+               Iodized Salt
+               Cinnamon
+               Pumpkin Pie spice
+               Bleach
+               Laundry Stripping Suppliess
+                  Borax
+                  Arm Hammer Washing Soda
+               Lunches
+                  Snacks
+                  Turkey
+                  Bread
+                  Sliced cheddar
+               French Toast Sticks
+               4 pack purple yogurt
+               Strawberries
+               Blueberries
+
+
+               3 large chicken breasts boneless and skinless, sliced lengthwise into thin cutlets
+               ▢½ teaspoon salt
+               ▢¼ teaspoon ground black pepper
+               ▢6 tablespoons (50 grams) all-purpose flour
+               ▢2 tablespoons (28 grams) unsalted butter
+               Chicken Bullion
+               ▢1 cup (240 ml) heavy cream (double cream in the UK)
+               ▢½ cup (43 grams) parmesan cheese grated
+               ▢1 teaspoon chili flakes
+               ▢¼ teaspoon oregano
+               ▢¼ teaspoon thyme
+               ▢⅓ cup sundried tomatoes chopped
+               ▢1 tablespoon fresh basil leaves
+               
+               4 pounds boneless or bone-in beef short ribs about 8 short ribs
+               ▢1 teaspoon salt
+               ▢1 teaspoon black pepper
+               ▢3 cups beef broth
+               ▢1/4 cup worcestershire sauce
+               ▢1 teaspoon garlic powder
+               ▢1 teaspoon onion powder
+               ▢1 sprig fresh rosemary
+               Mashed Potatoes
+               Green Beans
+               two cans Tuna
+               English muffins
+               American Cheese
+               Mac n Cheese
+               angus Burgers
+               fries
+               baked beans
+               brioche 
+               eggs
+               white rice
+               Cilantro
+               white cheddar
+               cuban sauce
+               fresh Fruit
+               ham steak
 
 Project: Meals
             Menu
+                 
                Friday
-               Hoagies n Hugs (Dad needs this bad)  
 
+               Saturday
+                  Freezer Left Overs and Brown rice
+
+               Sunday
+                  Marinated Grilled Chicken
+                     Chicken
+                     Kens Lite Ceaser
+                     Briquettes
+
+                  Sweet Potatoe
+
+                  Salad
+                     Romaine
+                     Croutons
+                     Cherry tomatoes
+                     Cucumber
+                     Red onion
+
+               Monday
+                  Turkey Vegetable Skewers
+                     Corn On Cob 
+                     Peppers
+                     zuchinni
+                     Squash
+                     Cherry tomatoes
+                     Red onion
+                  Quinoa
+
+               Tuesday
+                  Chickpea Bowls with Couscous
+                     Cherry tomatoes
+                     Feta 
+                     Cucumbers
+                     Tzatziki sauce 
+                     Red onion
+                     Kalamata Olived pitted and halved
+                     Fresh Parsely
+                     Lemon Wedges
+               
+               Wednesday
+                  Baked Salmon with Roasted Vegtables and Sweet Potatoe 
+                     w Salmon
+                     Green Beans
+                     Red onion
+                     Sweet Potato slices
+
+               Thursday 
+                  Pork Vegetable Stir Fry 
+                     Pork chops
+                     Mixed Asian Veggies?
+                        Brocolli
+                        cabbage
+                        carrots
+                        Pineapple
+                        Ginger
+                        Chives
+                        Red Pepper
+                        Cornstarch
+
+               Friday
+
+               **********************************************************
                Sat
                Marry Me Chicken
                Salad
@@ -396,7 +560,7 @@ Project: Cleaning
                   oven
                   microwave
                Wipe
-         Steam Clean the couch
+
          Stove is cracked
          Bedroom
             Sheets
@@ -425,8 +589,10 @@ Project: Dogs
             Get Xander in for visit
 
 Project: Grow
-            Pinch down and water
-            Order Jack Herer
+
+               Change lights
+            * Pinch down and water
+            * Order Jack Herer
 
 Project: Water Saver Toilet
             First floor bathroom
@@ -436,6 +602,7 @@ Project: Weekly Gym schedule
 
 Project: Laundry
             Make a repeating task
+            Make laundry monitor
 
 Project: Credit Cards 
             New Atm Card
@@ -443,9 +610,6 @@ Project: Credit Cards
 
 Project: Vacation
             Passports
-
-Project: Cpap supplies
-            Setup new vendor with ins
 
 Project: Email
             Groom email make a weekly task
@@ -459,11 +623,17 @@ Project: Medical Marijuana
             start tracking expenses
 
 Project: Earth Room
-            Finish ceiling fan
+            *Finish ceiling fan
             Order rug
             *Luv Sac
-            Blinds
+            Floating Shelves
+            Macreme Plant hangar
+            Blinds 31"
             Plants
+            Plant bottoms
+
+            31 inch Windows
+           
 
 Project: Garage
             move saws to shed
@@ -533,9 +703,9 @@ Project: Taxes
            Call that Lady
 
 Project: Acura
-     Air Cleaner
-     Trans Fluid
-     Coolant
+            Air Cleaner
+            Trans Fluid
+            Coolant
 
 Project: Gutter 
       6" Gutter on Front of house
@@ -560,7 +730,7 @@ Project: Hot Water Heater
    Line Leak
 
 Project: Trees
-   Return Chainsaws
+   *Return Chainsaws
 
 Project: Roof
 
@@ -618,166 +788,277 @@ PROJECT: AWS
     Restart-Computer -Force
 
 PROJECT: Recipies
-      Marry Me Chicken
-         3 large chicken breasts boneless and skinless, sliced lengthwise into thin cutlets
-         ▢½ teaspoon salt
-         ▢¼ teaspoon ground black pepper
-         ▢6 tablespoons (50 grams) all-purpose flour
-         ▢2 tablespoons (30 ml) olive oil
-         ▢2 tablespoons (28 grams) unsalted butter
-         ▢3 cloves garlic minced
-         ▢1 cup (240 ml) chicken stock
-         ▢1 cup (240 ml) heavy cream (double cream in the UK)
-         ▢½ cup (43 grams) parmesan cheese grated
-         ▢1 teaspoon chili flakes
-         ▢¼ teaspoon oregano
-         ▢¼ teaspoon thyme
-         ▢⅓ cup sundried tomatoes chopped
-         ▢1 tablespoon fresh basil leaves
 
-         Season chicken with salt and pepper, then dredge in flour and shake off any excess.
-         In a large skillet, heat olive oil and melt the butter on medium heat. Swirl pan to coat with oil and butter evenly.
-         Brown the chicken (do not overcrowd and work in batches if needed) for 4-5 minutes on each side or until golden brown and cooked through. Transfer onto a plate, cover, and set aside.
-         Saute the garlic for a minute or until it's fragrant. Add the chicken stock, and deglaze the pan scraping any bits stuck to the bottom of the pan with a wooden spoon.
-         Adjust the heat to medium-low, and add the heavy cream and the parmesan cheese to the skillet. Allow the sauce to simmer for a couple of minutes, then season with chili flakes, thyme, and oregano.
-         Season with salt and pepper to your taste, add the sundried tomatoes then put the chicken back in the sauce and let the sauce simmer and thicken for a few more minutes.
-         Garnish with chopped fresh basil leaves and serve warm over pasta or rice.
-      
-      Slow Cooker Short Ribs
-         4 pounds boneless or bone-in beef short ribs about 8 short ribs
-         ▢1 teaspoon salt
-         ▢1 teaspoon black pepper
-         ▢3 cups beef broth
-         ▢1/4 cup worcestershire sauce
-         ▢1 teaspoon garlic powder
-         ▢1 teaspoon onion powder
-         ▢1 sprig fresh rosemary
+      Chick Pea Bowls
 
-         Season the short ribs with salt and pepper. Heat a large skillet over high heat. Sear the short ribs on each of the 4 sides for about 60 seconds per side. 
-         Pour the beef broth, worcestershire sauce, garlic powder, and onion powder into a slow cooker and stir together. Place the short ribs into the liquid in the slow cooker.
-         Place rosemary sprig on top of meat and put the lid on. Cook on low for 6-8 hours, until meat is tender. 
+         For the Chickpeas:
+
+         2 cans (15 oz each) chickpeas, drained and rinsed
+         2 tablespoons olive oil
+         1 teaspoon ground cumin
+         1 teaspoon smoked paprika
+         Salt and pepper to taste
+         For the Bowls:
+
+         Cooked quinoa or couscous
+         Cherry tomatoes, halved
+         Cucumber, diced
+         Red onion, thinly sliced
+         Kalamata olives, pitted and halved
+         Feta cheese, crumbled
+         Tzatziki sauce for drizzling (store-bought or homemade)
+         Optional Extras:
+
+         Fresh parsley, chopped
+         Lemon wedges
+         Instructions:
+
+         Roast the Chickpeas:
+
+         Preheat the oven to 400°F (200°C).
+         In a bowl, toss the chickpeas with olive oil, ground cumin, smoked paprika, salt, and pepper until well coated.
+         Spread the chickpeas in a single layer on a baking sheet.
+         Roast in the preheated oven for 20-25 minutes or until the chickpeas are golden and crispy, shaking the pan halfway through.
+         Prepare the Bowls:
+
+         Assemble bowls with a base of cooked quinoa or couscous.
+         Add Vegetables:
+
+         Arrange cherry tomatoes, diced cucumber, thinly sliced red onion, Kalamata olives, and crumbled feta cheese around the bowl.
+         Top with Roasted Chickpeas:
+
+         Add a generous portion of the roasted chickpeas to each bowl.
+         Drizzle with Tzatziki:
+
+         Drizzle tzatziki sauce over the bowls for a creamy and tangy finish.
+         Optional Garnishes:
+
+         Sprinkle fresh chopped parsley on top and serve with lemon wedges on the side.
+         Enjoy:
+
+         Toss everything together just before eating to combine the flavors, and enjoy your Mediterranean Chickpea Bowls!
+         Feel free to customize the bowls with your favorite Mediterranean-inspired ingredients or sauces. You c
 
       Weight Loss Soup
-         64 ounces chicken broth you may use low-sodium
-         6 cups V-8 juice *see recipe notes
-         56 ounces Italian diced tomatoes
-         2 small onion
-         4 cloves minced garlic
-         16 ounces sliced mushrooms
-         6 carrots peeled and sliced
-         2 zucchini diced
-         2 yellow squash diced
-         4 cups green beans fresh or frozen
-         28 ounces kidney beans drained and rinsed
-         6-8 cups shredded cabbage
-         2 teaspoons Italian seasoning
-         Salt and Pepper to taste
 
-         In a large frying pan sprayed with cooking spray, sauté garlic, onions, carrots, and mushrooms for about 5 minutes. 
+         2 tablespoons extra-virgin olive oil
 
-         In a large crockpot, combine sautéed garlic and vegetables with the remaining ingredients. 
+         1 medium onion, chopped
 
-         Cook on high for 2-3 hours, or until vegetables are fork-tender.
-         FREEZING INSTRUCTIONS
-         This makes a large batch of soup. If you would like to freeze portions of it to use later, undercook the vegetables just a little. Pour the soup into freezer Ziplock bags and let as much air out as you can. Lay the bags flat on a cookie sheet and freeze. Once the soup is frozen flat, it is easy to layer in your freezer and won’t take up much room. To thaw, place the bag in the fridge for 24 hours and then rehea
+         2 medium carrots, chopped
 
-      Carnitas
-         INGREDIENTS:
-         1 tablespoon chili powder
-         2 teaspoons ground cumin
-         2 teaspoons dried oregano
-         2 teaspoons salt, or more, to taste
-         1 teaspoon ground bla
-         ck pepper
-         4 pound pork shoulder, excess fat trimmed
-         4 cloves garlic, peeled
-         2 onions, quartered
-         2 oranges, juiced
-         2 limes, juiced
-         DIRECTIONS:
-         In a small bowl, combine chili powder, cumin, oregano, salt and pepper. Season pork shoulder with spice mixture, rubbing in thoroughly on all sides.
+         2 stalks celery, chopped
 
-         Place garlic, onions, orange juice, lime juice and seasoned pork shoulder into a slow cooker. Cover and cook on low heat for 8 hours or high for 4-5 hours.
-         Remove pork shoulder from the slow cooker and shred the meat before returning to the pot with the juices; season with salt and pepper, to taste, if needed. Cover and keep warm for an additional 30 minutes.
-         Preheat oven to broil. Place carnitas onto a baking sheet and broil until crisp and crusted, about 3-4 minutes.
-         Serve immediately.
+         12 ounces fresh green beans, cut into 1/2-inch pieces
 
-      RedWine Pot Roast
+         2 cloves garlic, minced
+
+         8 cups no-salt-added chicken broth or low-sodium vegetable broth
+
+         2 (15 ounce) cans low-sodium cannellini or other white beans, rinsed
+
+         4 cups chopped kale
+
+         2 medium zucchini, chopped
+
+         4 Roma tomatoes, seeded and chopped
+
+         2 teaspoons red-wine vinegar
+
+         ¾ teaspoon salt
+
+         ½ teaspoon ground pepper
+
+         8 teaspoons prepared pesto
+
+
+         Directions
+         Heat oil in a large pot over medium-high heat. Add onion, carrots, celery, green beans and garlic. Cook, stirring frequently, until the vegetables begin to soften, about 10 minutes.
+
+         Add broth and bring to a boil. Reduce heat to a simmer and cook, stirring occasionally, until the vegetables are soft, about 10 minutes more.
+
+         Add white beans, kale, zucchini, tomatoes, vinegar, salt and pepper. Increase heat to return to a simmer; cook until the zucchini and kale have softened, about 10 minutes.
+
+         Top each serving of soup with 1 teaspoon pesto
+
+      Never Fail Scalloped Potatoes
          Ingredients
-          4-5 pound beef chuck roast
-         2 tablespoons canola oil
-         2 teaspoons Kosher salt
-         1 teaspoon ground black pepper
-         1 teaspoon fresh thyme (finely chopped)
-         1 teaspoon fresh rosemary (finely chopped)
-         1/2 teaspoon dried oregano
-         1/2 teaspoon Italian seasoning
-         1 yellow onion (finely diced)
-         1 yellow onion (quartered)
-         4 cloves garlic (minced)
-         4 cloves garlic (whole)
-         2 cups carrots (cut into 2-inch chunks)
-         1/4 cup tomato paste
-         2 cups beef broth
-         1 tablespoon worcestershire sauce
-         2 cups red wine
-         3 sprigs fresh rosemary
-         2 bay leaves
+         2 tablespoons butter
+         3 tablespoons all-purpose flour
+         1 teaspoon salt
+         1/4 teaspoon pepper
+         1-1/2 cups fat-free milk
+         1/2 cup shredded reduced-fat cheddar cheese
+         2 pounds potatoes, peeled and thinly sliced (about 4 cups)
+         1 cup thinly sliced onions, divided
+         Directions
+         Preheat oven to 350°. In a small saucepan, melt butter; stir in flour, salt and pepper until smooth. Gradually whisk in milk. Bring to a boil, stirring constantly; cook and stir until thickened, about 2 minutes. Remove from heat; stir in cheese until melted.
+         Advertisement
 
-         Instructions
+         Coat an 8-in. square baking dish with cooking spray. Place half of the potatoes in dish; layer with 1/2 cup onion and half of the cheese sauce. Repeat layers.
+         Bake, covered, 50 minutes. Uncover; bake until bubbly and potatoes are tender, 10-15 minutes longer.
+         Never-Fail 
 
-         Preheat the oven to 325 degrees F.
+      Marry Me Chicken
+               3 large chicken breasts boneless and skinless, sliced lengthwise into thin cutlets
+               ▢½ teaspoon salt
+               ▢¼ teaspoon ground black pepper
+               ▢6 tablespoons (50 grams) all-purpose flour
+               ▢2 tablespoons (30 ml) olive oil
+               ▢2 tablespoons (28 grams) unsalted butter
+               ▢3 cloves garlic minced
+               ▢1 cup (240 ml) chicken stock
+               ▢1 cup (240 ml) heavy cream (double cream in the UK)
+               ▢½ cup (43 grams) parmesan cheese grated
+               ▢1 teaspoon chili flakes
+               ▢¼ teaspoon oregano
+               ▢¼ teaspoon thyme
+               ▢⅓ cup sundried tomatoes chopped
+               ▢1 tablespoon fresh basil leaves
 
-         Season the chuck roast with salt and pepper.
+               Season chicken with salt and pepper, then dredge in flour and shake off any excess.
+               In a large skillet, heat olive oil and melt the butter on medium heat. Swirl pan to coat with oil and butter evenly.
+               Brown the chicken (do not overcrowd and work in batches if needed) for 4-5 minutes on each side or until golden brown and cooked through. Transfer onto a plate, cover, and set aside.
+               Saute the garlic for a minute or until it's fragrant. Add the chicken stock, and deglaze the pan scraping any bits stuck to the bottom of the pan with a wooden spoon.
+               Adjust the heat to medium-low, and add the heavy cream and the parmesan cheese to the skillet. Allow the sauce to simmer for a couple of minutes, then season with chili flakes, thyme, and oregano.
+               Season with salt and pepper to your taste, add the sundried tomatoes then put the chicken back in the sauce and let the sauce simmer and thicken for a few more minutes.
+               Garnish with chopped fresh basil leaves and serve warm over pasta or rice.
+            
+            Slow Cooker Short Ribs
+               4 pounds boneless or bone-in beef short ribs about 8 short ribs
+               ▢1 teaspoon salt
+               ▢1 teaspoon black pepper
+               ▢3 cups beef broth
+               ▢1/4 cup worcestershire sauce
+               ▢1 teaspoon garlic powder
+               ▢1 teaspoon onion powder
+               ▢1 sprig fresh rosemary
 
-         Place a large dutch oven over medium heat and add the canola oil, once hot, add the meat and brown it on all sides, 3-4 minutes on each side, then set it aside. Should be nicelyl browned!!
+               Season the short ribs with salt and pepper. Heat a large skillet over high heat. Sear the short ribs on each of the 4 sides for about 60 seconds per side. 
+               Pour the beef broth, worcestershire sauce, garlic powder, and onion powder into a slow cooker and stir together. Place the short ribs into the liquid in the slow cooker.
+               Place rosemary sprig on top of meat and put the lid on. Cook on low for 6-8 hours, until meat is tender. 
 
-         Add the diced onion, and minced garlic to the dutch oven, stir and cook for 1 minute, add chopped thyme, chopped rosemary, dried oregano, dried Italian herbs, stirring frequently before adding in the tomato paste, cook for about 1 minute.
+            Weight Loss Soup
+               64 ounces chicken broth you may use low-sodium
+               6 cups V-8 juice *see recipe notes
+               56 ounces Italian diced tomatoes
+               2 small onion
+               4 cloves minced garlic
+               16 ounces sliced mushrooms
+               6 carrots peeled and sliced
+               2 zucchini diced
+               2 yellow squash diced
+               4 cups green beans fresh or frozen
+               28 ounces kidney beans drained and rinsed
+               6-8 cups shredded cabbage
+               2 teaspoons Italian seasoning
+               Salt and Pepper to taste
 
-         Add in the beef broth, Worcestershire sauce, and red wine and scrape the bottom of the pan, then add the roast.
+               In a large frying pan sprayed with cooking spray, sauté garlic, onions, carrots, and mushrooms for about 5 minutes. 
 
-         Add the quartered onion, whole garlic cloves, carrots, rosemary sprigs and bay leaves.
+               In a large crockpot, combine sautéed garlic and vegetables with the remaining ingredients. 
 
-         Cover and cook in the oven for 3-4 hours or until fork-tender.
+               Cook on high for 2-3 hours, or until vegetables are fork-tender.
+               FREEZING INSTRUCTIONS
+               This makes a large batch of soup. If you would like to freeze portions of it to use later, undercook the vegetables just a little. Pour the soup into freezer Ziplock bags and let as much air out as you can. Lay the bags flat on a cookie sheet and freeze. Once the soup is frozen flat, it is easy to layer in your freezer and won’t take up much room. To thaw, place the bag in the fridge for 24 hours and then rehea
 
-      Red Beans and Protein
-         
-         medium onion, chopped
-         3/4
-         lb boneless skinless chicken thighs, quartered
-         1
-         clove garlic, finely chopped
-         1
-         green bell pepper, chopped
-         2
-         dried bay leaves
-         1
-         can (15.5 oz) red beans, drained, rinsed
-         1
-         can (6 oz) Muir Glen™ organic tomato paste
-         1
-         can (14.5 oz) Muir Glen™ organic diced tomatoes, undrained
-         1/2
-         teaspoon salt
-         1
-         package (12 oz) frozen cooked deveined peeled small shrimp, thawed
-         1/2
-         lb cooked kielbasa or Polish sausage, halved lengthwise, cut into 1-inch slices
-         4
-         cups uncooked instant white rice
-         4
-         cups water
-         Red pepper sauce, if desired
+            Carnitas
+               INGREDIENTS:
+               1 tablespoon chili powder
+               2 teaspoons ground cumin
+               2 teaspoons dried oregano
+               2 teaspoons salt, or more, to taste
+               1 teaspoon ground bla
+               ck pepper
+               4 pound pork shoulder, excess fat trimmed
+               4 cloves garlic, peeled
+               2 onions, quartered
+               2 oranges, juiced
+               2 limes, juiced
+               DIRECTIONS:
+               In a small bowl, combine chili powder, cumin, oregano, salt and pepper. Season pork shoulder with spice mixture, rubbing in thoroughly on all sides.
 
-         Steps
-         1
-         In 4- to 6-quart slow cooker, layer all ingredients in order listed, except shrimp, sausage, rice, water and pepper sauce.
-         2
-         Cover; cook on Low heat setting 6 to 8 hours.
-         3
-         About 10 minutes before serving, gently stir shrimp and sausage into chicken mixture. Remove and discard bay leaves. Increase heat setting to High; cover and cook 5 to 10 minutes longer or until shrimp and sausage are hot.
-         4
-         Meanwhile, cook rice in water as directed on package. Serve meat mixture over rice. Serve with pepper sauce.   
+               Place garlic, onions, orange juice, lime juice and seasoned pork shoulder into a slow cooker. Cover and cook on low heat for 8 hours or high for 4-5 hours.
+               Remove pork shoulder from the slow cooker and shred the meat before returning to the pot with the juices; season with salt and pepper, to taste, if needed. Cover and keep warm for an additional 30 minutes.
+               Preheat oven to broil. Place carnitas onto a baking sheet and broil until crisp and crusted, about 3-4 minutes.
+               Serve immediately.
+
+            RedWine Pot Roast
+               Ingredients
+               4-5 pound beef chuck roast
+               2 tablespoons canola oil
+               2 teaspoons Kosher salt
+               1 teaspoon ground black pepper
+               1 teaspoon fresh thyme (finely chopped)
+               1 teaspoon fresh rosemary (finely chopped)
+               1/2 teaspoon dried oregano
+               1/2 teaspoon Italian seasoning
+               1 yellow onion (finely diced)
+               1 yellow onion (quartered)
+               4 cloves garlic (minced)
+               4 cloves garlic (whole)
+               2 cups carrots (cut into 2-inch chunks)
+               1/4 cup tomato paste
+               2 cups beef broth
+               1 tablespoon worcestershire sauce
+               2 cups red wine
+               3 sprigs fresh rosemary
+               2 bay leaves
+
+               Instructions
+
+               Preheat the oven to 325 degrees F.
+
+               Season the chuck roast with salt and pepper.
+
+               Place a large dutch oven over medium heat and add the canola oil, once hot, add the meat and brown it on all sides, 3-4 minutes on each side, then set it aside. Should be nicelyl browned!!
+
+               Add the diced onion, and minced garlic to the dutch oven, stir and cook for 1 minute, add chopped thyme, chopped rosemary, dried oregano, dried Italian herbs, stirring frequently before adding in the tomato paste, cook for about 1 minute.
+
+               Add in the beef broth, Worcestershire sauce, and red wine and scrape the bottom of the pan, then add the roast.
+
+               Add the quartered onion, whole garlic cloves, carrots, rosemary sprigs and bay leaves.
+
+               Cover and cook in the oven for 3-4 hours or until fork-tender.
+
+            Red Beans and Protein
+               
+               medium onion, chopped
+               3/4
+               lb boneless skinless chicken thighs, quartered
+               1
+               clove garlic, finely chopped
+               1
+               green bell pepper, chopped
+               2
+               dried bay leaves
+               1
+               can (15.5 oz) red beans, drained, rinsed
+               1
+               can (6 oz) Muir Glen™ organic tomato paste
+               1
+               can (14.5 oz) Muir Glen™ organic diced tomatoes, undrained
+               1/2
+               teaspoon salt
+               1
+               package (12 oz) frozen cooked deveined peeled small shrimp, thawed
+               1/2
+               lb cooked kielbasa or Polish sausage, halved lengthwise, cut into 1-inch slices
+               4
+               cups uncooked instant white rice
+               4
+               cups water
+               Red pepper sauce, if desired
+
+               Steps
+               1
+               In 4- to 6-quart slow cooker, layer all ingredients in order listed, except shrimp, sausage, rice, water and pepper sauce.
+               2
+               Cover; cook on Low heat setting 6 to 8 hours.
+               3
+               About 10 minutes before serving, gently stir shrimp and sausage into chicken mixture. Remove and discard bay leaves. Increase heat setting to High; cover and cook 5 to 10 minutes longer or until shrimp and sausage are hot.
+               4
+               Meanwhile, cook rice in water as directed on package. Serve meat mixture over rice. Serve with pepper sauce.   
 
 PROJECT:  Dating Profiles
 
