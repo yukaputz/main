@@ -7,13 +7,12 @@ Project: Fold/Unfold
 Project: Taxes
 
 Project: 24 Hours
- Plant bottoms
-         weed
-         Groceries
-         Cord for star
+         Plant bottoms
          31" Blind
          Heat Register
          White rug
+         Budget
+         Message that mom about the water park
 
          BCBS
          FSA
@@ -42,73 +41,6 @@ Project: Budget
       Netflix
 
       Discovery
-
-Project: Holidays
-            Christmas dinner
-            Filet 
-            Puff Pastry
-            Dessert?
-            Prosciutto
-            Red Potatoes
-            Honey carrots
-            Green Beans
-
-            Christmas casserole
-
-            
-            Schedule
-            * Emailed Kate
-            
-            * Omas Diorama
-
-            Opa's Trains 
-
-            * Tree Skirt
-
-            Go See a Train Display
-
-            Visit Gettysburg holiday shop for tree topper?
-            
-            * Order moravian star for outside
-            
-            Lily
-               Digital Camera
-               Sun Glasses
-               Clothing from aerie shrits small and pants are small
-               Hoodies champion nmike or college filed hockey hoodies
-               Kendra scott necklace
-               Lululemon dual puch wristlet
-               car stuff
-               american eagle high rise jeans size 6 lighter wash no to dark
-               nike air max 270 size 8.5
-               lululemon swiftly tech long sleeve 2.0 race length size 6
-               luluemon alight hight rise legging 25" in size six
-            
-            Chloe
-               Christmas List:
-
-
-               Brooks running Shoe link (size 9)
-               2 Pack Long Sleeve link (size small) 
-               Womens Hoodie link (size medium, color in coffee gray)
-               silk pillowcase
-               fake ivy garlands(room decor) - found on amazon
-               Floral Plant Tapestry link (size large: 36” by 48’’, color navy blue)
-               Legos(orchid, plants, garden house)
-               tamanu oil
-               black women's sweatpants link (size medium, color black)
-               gray women's sweatpants link (size medium, color gray)
-               phone case - Google pixel 7
-               wrong place wrong time by Gillian McAllister
-
-               car stuff:
-               floor mats, bin for car necessities, first aid kit, snow brush/scraper, car registration and insurance card holder, flashlight, window glass breaker, hot hands, dash cam, notebook and pen
-
-            Dad
-               Cool Tshirts
-
-            House 
-               New Bathroom Towels.
 
 Project: Workout
    
@@ -583,14 +515,14 @@ Project: Dogs
             Dog paws make a repeating task
          
             Dogs baths
-            Dogs foam idea?
+            Dogs foam idea repeating task?
             Order foam
             Get Sunny in for visit
             Get Xander in for visit
 
 Project: Grow
-
-               Change lights
+            Automatic up and down
+            Change lights
             * Pinch down and water
             * Order Jack Herer
 
@@ -619,6 +551,7 @@ Project: Eyes
                replacements on its way
 
 Project: Medical Marijuana
+            waiting on card
             waiting for weed dr to call on monday
             start tracking expenses
 
@@ -633,10 +566,6 @@ Project: Earth Room
             Plant bottoms
 
             31 inch Windows
-           
-
-Project: Garage
-            move saws to shed
 
 Project: Winterization
             Move Ac to shed
@@ -1163,3 +1092,72 @@ PROJECT:  Dating Profiles
 
 Project: Chloe S.A.T's
    For next march
+
+
+ARCHIVES
+Project: Holidays
+            Christmas dinner
+            Filet 
+            Puff Pastry
+            Dessert?
+            Prosciutto
+            Red Potatoes
+            Honey carrots
+            Green Beans
+
+            Christmas casserole
+
+            
+            Schedule
+            * Emailed Kate
+            
+            * Omas Diorama
+
+            Opa's Trains 
+
+            * Tree Skirt
+
+            Go See a Train Display
+
+            Visit Gettysburg holiday shop for tree topper?
+            
+            * Order moravian star for outside
+            
+            Lily
+               Digital Camera
+               Sun Glasses
+               Clothing from aerie shrits small and pants are small
+               Hoodies champion nmike or college filed hockey hoodies
+               Kendra scott necklace
+               Lululemon dual puch wristlet
+               car stuff
+               american eagle high rise jeans size 6 lighter wash no to dark
+               nike air max 270 size 8.5
+               lululemon swiftly tech long sleeve 2.0 race length size 6
+               luluemon alight hight rise legging 25" in size six
+            
+            Chloe
+               Christmas List:
+
+
+               Brooks running Shoe link (size 9)
+               2 Pack Long Sleeve link (size small) 
+               Womens Hoodie link (size medium, color in coffee gray)
+               silk pillowcase
+               fake ivy garlands(room decor) - found on amazon
+               Floral Plant Tapestry link (size large: 36” by 48’’, color navy blue)
+               Legos(orchid, plants, garden house)
+               tamanu oil
+               black women's sweatpants link (size medium, color black)
+               gray women's sweatpants link (size medium, color gray)
+               phone case - Google pixel 7
+               wrong place wrong time by Gillian McAllister
+
+               car stuff:
+               floor mats, bin for car necessities, first aid kit, snow brush/scraper, car registration and insurance card holder, flashlight, window glass breaker, hot hands, dash cam, notebook and pen
+
+            Dad
+               Cool Tshirts
+
+            House 
+               New Bathroom Towels.
