@@ -359,6 +359,22 @@ Project: Shopping Lists
 
 Project: Meals
             Menu
+               Friday
+
+               Saturday
+                  Turkey chili
+                  
+               Sunday
+
+               Monday
+
+               Tuesday
+
+               Wednesday
+
+               Thursday
+
+               
                  
                Friday
 
