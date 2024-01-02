@@ -1,0 +1,42 @@
+# Define the threshold percentage (90% in this case)
+$thresholdPercentage = 90
+
+# List of servers to scan
+$servers = @("Server1", "Server2", "Server3")
+
+# UNC path for storing the zip files
+$uncPath = "\\Server\Share\ZipBackups"
+
+# Iterate through each server
+foreach ($server in $servers) {
+    Write-Host "Scanning drives on $server"
+
+    # Get drive information using Get-CimInstance on the remote server
+    $drives = Get-CimInstance -ClassName Win32_LogicalDisk -Filter "DriveType = 3" -ComputerName $server
+
+    # Iterate through each drive on the server and check the usage percentage
+    foreach ($drive in $drives) {
+        # Calculate the usage percentage
+        $usagePercentage = [math]::Round(($drive.FreeSpace / $drive.Size) * 100, 2)
+
+        # Check if the usage percentage is within 10% of being completely filled
+        if ($usagePercentage -ge $thresholdPercentage) {
+            # Output drive information
+            Write-Host "   Drive $($drive.DeviceID) on $server is $usagePercentage% full. Compressing and moving \Zip contents..."
+
+            # Zip the contents of \Zip directory
+            $zipPath = Join-Path -Path $drive.DeviceID -ChildPath "Zip"
+            $zipFileName = "$($server)_$(Get-Date -Format 'yyyyMMddHHmmss').zip"
+            $zipFilePath = Join-Path -Path $zipPath -ChildPath $zipFileName
+            Compress-Archive -Path $zipPath -DestinationPath $zipFilePath -Force
+
+            # Copy the zip file to the remote UNC location
+            $remoteUncPath = Join-Path -Path $uncPath -ChildPath $zipFileName
+            Copy-Item -Path $zipFilePath -Destination $remoteUncPath -Force
+
+            Write-Host "      Contents of \Zip on $server compressed and moved to $remoteUncPath."
+        }
+    }
+
+    Write-Host "Finished scanning drives on $server`n"
+}
